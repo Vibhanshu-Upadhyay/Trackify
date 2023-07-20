@@ -1,3 +1,4 @@
 # Trackify
 Track your workouts forever
-Deplo link: https://vibhanshu-upadhyay.github.io/Trackify/
+
+Deploy link: https://vibhanshu-upadhyay.github.io/Trackify/
